@@ -86,6 +86,10 @@ This video on youtube logging into a linux machine via a BBC B gave me most of t
 
 [linux wednesday's #81 Terminal Login via serial](https://www.youtube.com/watch?v=CMi_Y4WfvWA)
 
+### HEX Editor 
+
+Using a hex editor you can browse the dumped .BIN file for text.
+
 ### Links
 
 https://www.eevblog.com/forum/beginners/how-to-drive-a-old-controllerless-lcd-hitachi-lm236xb/
